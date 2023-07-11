@@ -12,6 +12,9 @@ JavaScript
 Bootstrap 5.3.0
 TypeScript 5.1.3
 
+A felhasználói élmény növelésére toastr message-eket használtam. 
+A megfelelő service component-ek segítségével kapcsoltam össze a dashboardot/applikációt a firebase-zel. 
+
 Fejlesztési lehetőségek:
 - A comment egységet még nem sikerült lefejleszteni: azok adattartalmát a firebase-ben tárolni szükséges, gondoskodi kell a nem megfelelő postok törlési lehetőségéről is.
 - A blog applikáció footer része fejlesztésre vár, a contact fül egyáltalán nem készült el. 
