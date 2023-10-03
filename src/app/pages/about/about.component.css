@@ -1,0 +1,11 @@
+
+
+p{
+    text-align: center;
+}
+
+button{
+    color: white;
+    background-color: var(--primary-color);
+    height: 58px;
+}

@@ -1,0 +1,13 @@
+p{
+    text-align: center;
+}
+
+small{
+    margin-left: 15px;
+}
+
+button{
+    color: white;
+    background-color: var(--primary-color);
+    height: 58px;
+}
